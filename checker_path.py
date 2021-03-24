@@ -248,7 +248,7 @@ def startRow(t, s):
     t.pendown()
 
 
-# Define needed classes
+# Define needed classes based on demo by Brian Yu: https://www.youtube.com/watch?v=WbzNRTTrX0g&list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv&index=10
 class Node():
     def __init__(self):
         self.oRow = 0
